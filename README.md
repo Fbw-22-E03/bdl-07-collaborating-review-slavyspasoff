@@ -10,3 +10,5 @@ to the readme of the repo.
 * On separate branches, you should both make these changes to the readme. 
 * Then, make a pull request for both of your branches. 
 * Assign one another to review your work. Once you have reviewed each other's work, merge the branches to master. 
+
+Link to the solution: https://github.com/KamilWawrzynczuk/collaborating
